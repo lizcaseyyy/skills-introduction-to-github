@@ -14,4 +14,4 @@ Asp 155 is the location of the mimic variant in MDH2. TPO 155 is teh location of
 
 2. Modification site alignement with MDH2
 ![image](https://github.com/user-attachments/assets/9c461303-f79f-4ced-9047-9f658f538df3)
-With the addition of the PTM, TPO 155 interacts with Ser 45, Lys 21, Thr 49, Ile 47,Glu 159, Val 151 through hydrogen bonds and PHE 156 through a hydrophobic interaction. The mimic variant has the same weak interactions as the unmodified MDH2 except for the deletion of Hydrogeb bonding between His 46
+With the addition of the PTM, TPO 155 interacts with Ser 45, Lys 21, Thr 49, Ile 47,Glu 159, Val 151 through hydrogen bonds and PHE 156 through a hydrophobic interaction. The mimic variant has the same weak interactions as the unmodified MDH2 except for the deletion of Hydrogen bonding between His 46. 
